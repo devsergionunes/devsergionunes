@@ -18,7 +18,7 @@ Tenho como missão transforma ideias inovadoras em realidade por meio da tecnolo
 [![Node JS](https://img.shields.io/badge/Node%20Js-3e863d?style=for-the-badge&logo=node.js&logoColor=white)](https://github.com/devsergionunes)
 
 ## Contato ☎️
-![Linkedin Badge](https://img.shields.io/badge/linkedin-3276E6?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/contato-dev-paulo-sergio/)
+[![Linkedin Badge](https://img.shields.io/badge/linkedin-3276E6?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/contato-dev-paulo-sergio/)](https://www.linkedin.com/in/contato-dev-paulo-sergio/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serginho111level@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55992173093text=Hi!)
 <!--
