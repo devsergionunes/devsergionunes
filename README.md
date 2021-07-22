@@ -1,6 +1,6 @@
 # Paulo Sergio 💯
 
-<img align='right' width="300" src='assests/bg-4-removebg-preview.png'/>
+<img align='right' width="300" src='assests/bg-3-removebg-preview.png'/>
 
 Tenho como missão transforma ideias inovadoras em realidade por meio da tecnologia. 💡💻
 
@@ -25,7 +25,3 @@ Tenho como missão transforma ideias inovadoras em realidade por meio da tecnolo
 [![Linkedin Badge](https://img.shields.io/badge/linkedin-3276E6?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/contato-dev-paulo-sergio/)](https://www.linkedin.com/in/contato-dev-paulo-sergio/)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:serginho111level@gmail.com)
 [![Whatsapp Badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://api.whatsapp.com/send?phone=55992173093text=Hi!)
-
-<img align='right' width="300" src='assests/bg-3-removebg-preview.png'/>
-<img align='right' width="300" src='assests/bg-4-removebg-preview.png'/>
-<img align='right' width="300" src='assests/segundo-bg-removebg-preview.png'/>
