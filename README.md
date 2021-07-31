@@ -6,7 +6,7 @@ Tenho como missão transforma ideias inovadoras em realidade por meio da tecnolo
 
 ## Analise e desenvolvimento de sistemas 📚
 
-[Universidade de Marília](https://oficial.unimar.br/) | Marilia , SP 🌍 | 2021-2024⏳
+[Universidade de Marília](https://oficial.unimar.br/) | Marilia , SP 🌍 | 2021-2023⏳
 
 ## Habilidades 🤹🏻
 
